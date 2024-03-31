@@ -1,0 +1,49 @@
+/* .wel{
+    color:aqua;
+    font-size:larger;
+    font-weight:500;
+    font-style:oblique;
+    font-display:calc(); 
+} */
+*{
+    padding:0px;
+    text-align:center;
+    background-color:teal;
+}
+
+.para1{
+    margin:0 auto;
+    text-align: center;
+    width: 300px;
+    color:aquamarine;
+    padding:50px;
+    font-size:large;
+    background-color:darkblue;
+    border:10px double lightcoral;
+    border-bottom-style: dotted;
+    text-decoration-line:underline;
+       
+}
+
+.para2{
+    margin:0;
+
+    width: 100px;
+    color:lightcoral;
+    font-size:large;
+    background-color: lavender;
+    border:100px dotted pink;
+}
+.para3{
+    overflow-x: scroll;
+    
+    height: 50;
+    width: 50px;
+    margin:100px 50px 200px;
+    color:darkgoldenrod;
+    font-size:large;
+    background-color: lightgreen;
+    border:50px ridge pink;
+    
+}
+

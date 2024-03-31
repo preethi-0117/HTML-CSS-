@@ -1,0 +1,55 @@
+.white{
+    background-color: aliceblue;
+    margin:0;
+}
+
+.blue{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 80px;
+    background-color: darkblue;
+    height:500px;
+    text-align: center;
+  
+    justify-content: center;
+    display:flex;
+}
+
+.text{
+    margin-top: 50px;  
+    font-size: medium;
+    color:white;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+.one{
+    height: 210px;
+    width:270px;
+    background-color: grey;
+}
+
+.two{
+    height: 210px;
+    width:270px;
+    background-color: grey;
+   
+}
+
+.three{
+    height: 210px;
+    width:270px;
+    background-color: grey;
+}
+
+.grey{
+    display:flex;
+    column-gap:40px;
+    justify-content:space-around;
+}
+
+p{
+   align-content:center;
+}

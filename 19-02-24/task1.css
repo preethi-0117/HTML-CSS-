@@ -1,0 +1,148 @@
+/* *{
+    background-color: white;
+}
+.one{
+    border:2px solid red;
+    /* margin:5px 200px; */
+    /* height:30px; */
+    /* text-align: center;
+    padding: 2px;
+    /* line-height: 30px; */
+/* }
+.two{
+    border:2px solid red;
+    margin:5px 200px;
+    height:250px;
+    text-align:center;
+    
+    width:200px;
+}
+.five{
+    border:2px solid red;
+    height:535px;
+    text-align: center;
+    width:25%;
+    vertical-align: top;
+    display: inline-block;
+}
+.container{
+    display:flex;
+    ;
+}
+.three{
+    border:2px solid red;
+    margin:0 auto ;
+    height:27px;
+    text-align:center;
+    line-height:30px;
+    width:916px;
+    display:inline-block;
+}
+.six{
+    margin-top: 15px;
+    border: 2px solid red;
+    text-align: center;
+    padding: 2px;
+}
+.four{
+    border: 2px solid red;
+    width:916px;
+    height:500px;
+    line-height: 520px;
+    vertical-align: top;
+    margin-left: 0 auto;
+    margin-top: 8px;
+    text-align: center;
+} */ */ */
+
+.container{
+    display:flex;
+}
+
+body{
+    background-color:white;
+    /* position: relative; */
+
+}
+
+h1{
+    text-align: center;
+}
+
+.one{
+    border:2px solid red ;
+    height:30px;
+    text-align: center;
+    padding:2px;
+    line-height: 30px;
+    margin:5px 200px;
+    width:1038px;
+
+}
+
+
+.two{
+    border:2px solid red;
+    text-align: center;
+    padding:70px 15px;
+    margin: 5px 200px;
+    width:150px;
+    height:250px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.five{
+    border:2px solid red;
+    text-align: center;
+    padding:70px 15px;
+    margin:5px 800px;
+    width:157px;
+    height:250px;
+    position: absolute;
+    left:265px;
+    top:105px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.three{
+    border:2px solid red;
+    height:30px;
+    text-align: center;
+    padding:2px;
+    line-height: 30px;
+    margin:5px 390px;
+    position:absolute;
+    width:650px;
+    position: absolute;
+    top:105px;
+   
+}
+
+.four{
+    border:2px solid red;
+    height:346px;
+    width:650px;
+    position: absolute;
+    left:401px;
+    top:154px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.six{
+    border:2px solid red;
+    height:30px;
+    text-align: center;
+    padding:2px;
+    line-height: 30px;
+    width:1038px;
+    margin-left: 200px;
+    margin-top: 8px;
+}
